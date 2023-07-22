@@ -4,12 +4,10 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #DDD;
-
 }
 
 .form-login {
     flex-basis: 450px;
-
 }
 
 .login-card .card-header {
@@ -22,6 +20,4 @@ body {
 .login-card .card-footer {
     display: flex;
     justify-content: flex-end;
-
-
 }
